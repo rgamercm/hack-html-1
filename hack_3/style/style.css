@@ -1,0 +1,44 @@
+:root{
+    --bg-blue: #93B5C9;
+    --bg-wine: #AB2849;
+}
+
+section{
+
+   width: 800px;
+   height: 600px;
+   margin: auto auto;
+}
+
+.colorAzul{
+
+   width: 100%;
+   height: 70px;
+   background-color: #93B5C9;
+}
+
+.colorMagenta{
+
+   width: 100%;
+   height: 70px;
+   background-color: #AB2849;
+
+}
+
+.margen1{
+
+   margin: auto auto;
+   margin-top: 8px;
+   
+}
+
+.anchura{
+
+   width: 500px;
+}
+
+div{
+   display: flex;
+   flex-direction: row;
+   column-gap: 8px;
+}
