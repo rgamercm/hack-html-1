@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Ruda:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+
+
+#section{
+    height:900px;
+    width: 700px;
+    
+    background-color:rgb(240, 240, 240);
+    margin: auto auto;
+}
+
+.figura1{
+    width: 70px;
+    height: 5px;
+    background-color: black;
+    border-radius: 15%;
+    margin-left: 315px;
+    position: relative;
+    top: 80px;
+    
+   
+
+    
+}
+
+#primer_texto{
+    position: relative;
+    top: 80px;
+    
+}
+
+#segundo_texto{
+    position: relative;
+    top: 5px;
+    
+}
+
+#tercer_texto{
+    position: relative;
+    bottom: 70px;
+    
+}
+
+#cuarto_texto{
+    position: relative;
+    bottom: 110px;
+
+}
+
+
+.franjas{
+    position: relative;
+    background-color: #FFBD59;
+    width: 100%;
+    height: 20px;
+    float: left;
+    margin-top: 20px;
+    
+}
+
+.precios{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    position: relative;
+    bottom: 160px;
+    margin-right: 90px;
+    margin-left: 90px;
+}
+
+.alinear_texto{
+    text-align: center;
+}
+
+.alinear_texto1{
+    text-align:center
+}
+
+
+.font_ruda{
+    font-family: 'Ruda';
+    
+}
+
+.font_catamaran{
+    font-family: 'Catamaran';
+}
+
+#fashion{
+    
+    font-family: 'Open+Sans' sans-serif;
+    font-weight: bolder;
+    color: #B88940;
+}
+    
+#fashion1{
+    position: relative;
+    top: -100px;
+}
+
+    
+
+.lorem{
+    
+    position: relative;
+    bottom: 10px;
+    
+    
+}
+
+img{
+    position: relative;
+    width: 160px;
+    height: 200px;
+    bottom: 160px;
+    margin: 3px;
+
+   
+}
+
+.imagenes{
+    display: inline-block;
+}
+
+.todas_lasfranjas{
+    margin-left: 10px;
+    margin-right: 10px;
+}

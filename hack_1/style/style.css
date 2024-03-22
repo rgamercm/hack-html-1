@@ -1,0 +1,47 @@
+:root{
+
+    --bg-blue: #93B5C9;
+    --bg-wine: #AB2849;
+}
+
+
+
+section{
+    
+    width: 800px;
+    height: 600px;
+    position: relative;
+    margin: auto auto;
+}
+
+#articulo1{
+    width: 100%;
+    height: 70px;
+    background-color: var(--bg-blue);
+
+}
+
+.colorMagenta{
+    width: 100%;
+    height: 70px;
+    background-color: var(--bg-wine);
+
+}
+
+.margen_top{
+
+    margin-top: 8px;
+}
+
+.margen_left{
+
+    margin-left: 100px;
+    width: 700px;
+}
+
+.margen_slides{
+
+    margin-left: 8px;
+    
+    width: 784px;
+}
