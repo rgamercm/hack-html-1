@@ -1,0 +1,301 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+header{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+    margin: auto auto;
+}
+
+.redondo{
+    width: 40px;
+    height: 40px;
+    background-color: #7ED957;
+    border-radius: 100%;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    left: 150px;
+}
+
+
+
+#en_linea{
+    font-family: 'Arimo';
+    position: relative;
+    left: 800px;
+    bottom: 55px;
+}
+
+#soluciones_mundiales{
+    font-family: 'Arimo';
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 1300px;
+    top: -155px;
+    text-align:justify;
+    
+    
+}
+
+#imagen1{
+    position: absolute;
+    width: 1832px;
+    left: -150px;
+    top: -599px;
+}
+
+.soluciones_creativas{
+    left: 750px;
+    width: 1500px;
+    height: 1500px;
+    background-color: rgb(255, 255, 255);
+    bottom: 650px;
+    position: relative;
+    font-family: 'Arimo';
+
+}
+
+.segundos_textos{
+    position: relative;
+    top: 130px;
+
+}
+
+#sin_text{
+    position: relative;
+    bottom: 40px;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+#imagen2{
+    
+    width: 400px;
+    height: 550px;
+    margin-right:120px ;
+    
+    
+}
+
+#imagen3{
+    
+    width: 450px;
+    height: 510px;
+    bottom: 20px;
+    position: relative;
+    
+}
+
+#imagen4{
+    
+    width: 500px;
+    height: 455px;
+    bottom:50px;
+    position: relative;
+    left: 43px;
+    
+}
+
+#imagen5{
+    
+    width: 1600px;
+    bottom:50px;
+    position: relative;
+    left:-80px;
+    top: -80px;
+}
+.rectangulo1{
+    width: 680px;
+    height: 100px;
+    background-color: #00BF63;
+    position: relative;
+    top: 280px;
+    margin-left: 600px;
+    margin-top: 15px;
+}
+
+.rectangulo2{
+    width: 1100px;
+    height: 100px;
+    background-color: #00BF63;
+    position: relative;
+    left: 630px;
+    margin-top: 15px;
+}
+
+.rectangulo3{
+    width: 1100px;
+    height: 100px;
+    background-color: #00BF63;
+    position: relative;
+    left: 630px;
+    bottom: 220PX;
+    margin-top: 15px;
+}
+
+.rectangulo4{
+    width: 1050px;
+    height: 50px;
+    background-color:black;
+    position: relative;
+    bottom: 400px;
+    left: 630px;
+    margin-top: 15px;
+}
+
+.rectangulo5{
+    width: 700px;
+    height: 50px;
+    background-color:black;
+    position: relative;
+    bottom:500px;
+    left: 660px;
+    margin-top: 15px;
+}
+
+#textofranja1{
+    font-family: 'Arimo';
+    position: relative;
+    left: 630px;
+    top: 70px;
+
+}
+
+#textofranja2{
+    font-family: 'Arimo';
+    position: relative;
+    left: 630px;
+    bottom: 180PX;
+
+}
+
+#textofranja3{
+    font-family: 'Arimo';
+    position: relative;
+    left: 640px;
+    bottom: 400PX;
+
+}
+
+#textofranja4{
+    font-family: 'Arimo';
+    position: relative;
+    left: 640px;
+    bottom: 490PX;
+
+}
+
+#textofranja5{
+    font-family: 'Arimo';
+    position: relative;
+    left: 680px;
+    bottom: 590PX;
+
+}
+
+#contenedor1{
+    position: relative;
+    bottom: 180px;
+}
+
+#textdesign{
+    font-family: 'Arimo';
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 180px;
+    bottom: 1320px;
+    text-align:justify;
+    
+}
+
+
+#textdesign1{
+    font-family: 'Arimo';
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 95px;
+    bottom: 1350px;
+    text-align:justify;
+    
+}
+
+#textdesign2{
+    font-family: 'Arimo';
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 760px;
+    bottom: 1430px;
+    text-align:justify;
+    
+}
+
+#textdesign3{
+    font-family: 'Arimo';
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 765px;
+    bottom: 1460px;
+    text-align:justify;
+    
+}
+
+#textdesign4{
+    font-family: 'Arimo';
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 1265px;
+    bottom: 1540px;
+    text-align:justify;
+    
+}
+
+#textdesign5{
+    font-family: 'Arimo';
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 1175px;
+    bottom: 1570px;
+    text-align:justify;
+    
+}
+
+
+.rectangulofinal{
+    width: 1520px;
+    height: 100px;
+    background-color: #00BF63;
+    bottom: 1090px;
+    margin-left: 740px;
+    margin-right: -740px;
+    position: relative;
+    
+}
+
+.ultimos_textos{
+    display: flex;
+    position: relative;
+    top: -595px;
+    left: 300px;
+    margin-left: 130px;
+    font-family: 'Arimo';
+    color: #EEEEEE;
+}
+
+.textts{
+    position: relative;
+    bottom: 90px;
+}
